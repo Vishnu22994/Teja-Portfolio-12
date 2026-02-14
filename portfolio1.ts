@@ -35,7 +35,7 @@ export const personalInfo = {
   socialLinks: {
     github: "https://github.com/Vishnu22994",
     linkedin: "https://www.linkedin.com/in/vishnu-teja-06628128b/",
-    leetcode: "https://leetcode.com/vishnutejhttps://leetcode.com/u/sGtvtMGE7Z/",
+    leetcode: "https://leetcode.com/u/sGtvtMGE7Z/",
   },
 };
 
